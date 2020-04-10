@@ -8,8 +8,12 @@ Modules needed: Pandas,Numpy,Matplotlib
 
 Windows support only 
 
+# usuage
+
 Excute by typing the following: 
+'''python
 C:\Users\%USERNAME%\Downloads\SensorTracking-master\SensorTracking-master\srcCode>python library_gui.py
+'''
 
 # Contributions 
 
