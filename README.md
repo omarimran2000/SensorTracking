@@ -4,8 +4,12 @@ This library allows the tracking of objects with sensors such as the Ouster LIDA
 # Installation 
 
 Functions can be run by downloading files and running on command line.
+Modules needed: Pandas,Numpy,Matplotlib
 
 Windows support only 
+
+Excute by typing the following: 
+C:\Users\%USERNAME%\Downloads\SensorTracking-master\SensorTracking-master\srcCode>python library_gui.py
 
 # Contributions 
 
