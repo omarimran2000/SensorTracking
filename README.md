@@ -18,7 +18,7 @@ C:\Users\%USERNAME%\Downloads\SensorTracking-master\SensorTracking-master\srcCod
 # Contributions 
 
 Omar Imran, Carleton University <br />
-Jason Gao, Carleton University <br /><br />
-Dr. Sreeraman Rajan, Carelton University 
+Jason Gao, Carleton University <br />
+Dr. Sreeraman Rajan, Carelton University <br />
 Dr. Bhashyam Balaji, Defence Research Devlopment Canada <br />
 Andi Huang, Carelton University <br />
