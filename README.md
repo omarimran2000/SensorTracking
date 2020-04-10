@@ -10,7 +10,7 @@ Windows support only
 
 # Usuage
 
-Excute by typing the following: 
+Excute by typing the following into command prompt: 
 
 C:\Users\%USERNAME%\Downloads\SensorTracking-master\SensorTracking-master\srcCode>python library_gui.py
 
