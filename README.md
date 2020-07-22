@@ -5,7 +5,8 @@ National Research Council of Canada (NRC)
 # Installation 
 
 Functions can be run by downloading files and running on command line.
-Modules needed: Pandas, Numpy, Matplotlib
+Modules needed: Pandas, Numpy, MatPlotLib
+Jupyter Notebooks Provided
 
 Windows support only 
 
