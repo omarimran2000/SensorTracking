@@ -1,5 +1,6 @@
 # SensorTracking
-This library allows the tracking of objects with sensors such as the Ouster LIDAR, X4 Radar and TSW Radar.
+This library allows the tracking of objects with sensors such as the Ouster LIDAR, X4 Radar and TSW Radar. Equipment was provided by 
+National Research Council of Canada (NRC)
 
 # Installation 
 
